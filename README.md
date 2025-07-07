@@ -78,6 +78,6 @@ Feel free to fork this project and contribute. Open a pull request with your cha
 
 ## 📞 Contact
 If you have any questions, feel free to reach out:
-- 📧 Email: pranjulit4708@gmail.com
-- 💻 GitHub: [itsPranjul](https://github.com/Shobhit0P)
+- 📧 Email: shobhitsing512000@gmail.com
+- 💻 GitHub: [Shobhit0P](https://github.com/Shobhit0P)
 
